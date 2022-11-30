@@ -1,2 +1,3 @@
-# mediator-pattern-ooap
-Mediator Pattern OOAP 
+# Mediator Pattern
+
+Project using mediator pattern `java`
